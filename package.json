@@ -10,8 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "chai": "^4.2.0",
-    "minimist": "^0.0.8",
+    "minimist": "^1.2.5",
     "mkdirp": "^0.5.1",
-    "mocha": "^5.2.0"
+    "mocha": "^8.3.2"
   }
 }
